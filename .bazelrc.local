@@ -1,0 +1,2 @@
+build --execution_log_json_file=/Users/udita.bose/spaces/cpp_bazel_prtc/logs/execution.json
+build --explain=/Users/udita.bose/spaces/cpp_bazel_prtc/logs/explain.log
